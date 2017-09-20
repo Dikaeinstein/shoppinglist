@@ -9,6 +9,6 @@ npm install -g karma-cli
 npm install
 npm test 
 ```
-Tests were written jasmine using karma test-runner.
+Tests were written with jasmine using karma test-runner.
 
 
