@@ -1,5 +1,6 @@
 # shoppinglist
-A simple shopping list app written with AngularJS 
+A simple shopping list app written with AngularJS.
+To view live [Shoppinglist](https://dikaeinstein.github.io/shoppinglist)
 
 Install karma-cli globally so you can run karma easily from command line.
 
